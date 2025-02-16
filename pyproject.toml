@@ -1,7 +1,7 @@
 [project]
-name = "gemini-agent"
+name = "super-simple-python-gemini-agent"
 version = "0.1.0"
-description = "A portable Gemini LangChain implementation"
+description = "A super-simple Python Gemini agent using LangChain."
 authors = [
     {name = "Brady Anderson", email = "brady@bradyanderson.tech"}
 ]
