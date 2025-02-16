@@ -20,8 +20,8 @@ A minimalist implementation of a conversational AI agent using Google's Gemini m
 1. Clone the repository:
 
 ```bash
-git clone [TODO]
-cd [TODO]
+git clone git@github.com:bradyaanderson/super-simple-python-gemini-agent.git
+cd super-simple-python-gemini-agent
 ```
 
 1. Install dependencies using Poetry:
