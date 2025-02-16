@@ -33,7 +33,7 @@ class GeminiChat:
 
 def main():
     chat = GeminiChat()
-    print("Welcome to Gemini Chat! (Type 'quit' to exit)")
+    print("Welcome to Super Simple Gemini Agent! (Type 'quit' to exit)")
 
     while True:
         try:
