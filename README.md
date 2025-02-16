@@ -41,7 +41,7 @@ GEMINI_API_KEY=your_api_key_here
 Run the chat agent:
 
 ```bash
-poetry run gemini-chat
+poetry run gemini_agent
 ```
 
 Type 'quit' to exit the conversation.
