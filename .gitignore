@@ -1,0 +1,18 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.pyo
+*.pyd
+.Python
+
+# Ignore environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.envrc
+
+# Ignore Poetry virtual environments (if using in-project venv)
+.poetry/
+.venv/
+venv/
