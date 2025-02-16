@@ -1,4 +1,4 @@
-# Simple Gemini Chat Agent
+# Super Simple Python Gemini Agent
 
 A minimalist implementation of a conversational AI agent using Google's Gemini model. This agent maintains conversation history to provide contextual responses while keeping the codebase as simple as possible.
 
